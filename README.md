@@ -4,4 +4,4 @@ ezt a VSCode-ban írtam
 hozzáadok még egy sort
 írom tovább
 ezt már a Git Hub-on írtam
-Vs code konfliktus
+vs code konfliktus
