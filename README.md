@@ -5,3 +5,4 @@ hozzáadok még egy sort
 írom tovább
 ezt már a Git Hub-on írtam
 vs code konfliktus
+vs code konfliktus 2
