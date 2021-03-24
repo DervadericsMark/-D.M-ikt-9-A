@@ -6,3 +6,4 @@ hozzáadok még egy sort
 ezt már a Git Hub-on írtam
 vs code konfliktus
 vs code konfliktus 2
+gh desktop
